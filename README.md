@@ -1,2 +1,4 @@
-# datascience-leanings
-datascience-leanings
+### Learning datascience
+
+- Machine Leaning Types
+- SciKit Framework
